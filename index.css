@@ -1,6 +1,6 @@
-img{height: 100% !important;}
-
+body{
+    background-color: rgb(200,200,200);
+}
 .container{
     height: 100vh;
-    display: flex; justify-content: center; align-items: center;
 }
